@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @caterinar
-- 👀 I’m interested in CHO cells, long non-coding RNAs and data science.
-- 🌱 I’m currently learning how to analyse bulk RNA-seq data and visualize data.
-- 📫 How to reach me: caterina.ruggeri@boku.ac.at
+- 👀 I’ve got a PhD in Biotechnology with experience in Bioinformatics and currently transitioning to Data Science for Biomedical Applications.
+- 🌱 I’m currently learning the main Machine Learning algorithms and eager to apply them to biological problems, ideally in the drug discovery space.
+- 📫 How to reach me: caterina.ruggeri.pe@gmail.com
 
 <!---
 caterinar/caterinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
